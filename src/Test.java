@@ -39,6 +39,14 @@ public class Test {
 
     }
 
+    @org.junit.Test
+    public void testGit(){
+        System.out.println("hello world");
+
+
+    }
+
+
 
 
 
