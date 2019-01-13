@@ -51,6 +51,11 @@ public class Test {
         System.out.println("second test");
     }
 
+    @org.junit.Test
+    public void testbranch(){
+        System.out.println("testbranch");
+    }
+
 
 
 
