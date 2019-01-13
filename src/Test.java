@@ -55,6 +55,11 @@ public class Test {
     public void testbranch(){
         System.out.println("testbranch");
     }
+    @org.junit.Test
+    public void testLL(){
+        System.out.println("bug");
+
+    }
 
 
 
