@@ -1,3 +1,4 @@
+import javafx.scene.text.TextBoundsType;
 import redis.clients.jedis.HostAndPort;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisCluster;
@@ -44,6 +45,10 @@ public class Test {
         System.out.println("hello world");
 
 
+    }
+    @org.junit.Test
+    public void testGit2(){
+        System.out.println("second test");
     }
 
 
